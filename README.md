@@ -14,6 +14,7 @@ I've created a web testing portfolio and want to share it with you. It's all my 
 
 ## Some Tools I Use
 
+<div>
 <img src="assets/jira.svg" title="jira" alt="jira" width="40" height="40"/> 
 <img src="assets/testit.png" title="testit" alt="testit" width="40" height="40"/>
 <img src="assets/youtrack.svg" title="youtrack" alt="youtrack" width="40" height="40"/>
@@ -27,6 +28,7 @@ I've created a web testing portfolio and want to share it with you. It's all my 
 <img src="assets/dbeaver.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/>
 <img src="assets/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="assets/git.svg" title="git" alt="git" width="40" height="40"/>
+<div>
 
 ## My own work examples
 
