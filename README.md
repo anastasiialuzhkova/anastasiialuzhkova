@@ -7,9 +7,9 @@ I've created a web testing portfolio and want to share it with you. It's all my 
 ## About me
 
 -  :relaxed: Finished software testing course
--  :books: Learnin java in my free time
+-  :books: Learning Java in my free time
 -  :low_brightness: Most of my study cases are available on GitHub
--  :notebook: Check out my [CV](https://www.linkedin.com/in/anastasiia-luzhkova/)
+-  :notebook: Check out my [CV](https://drive.google.com/file/d/1w0OD2qCB4PdvSbYXBlrEsDsU4jGkiFYe/view?usp=sharing)
 -  :bicyclist: I love staying active and healthy. I enjoy yoga, roller skating, and even handstanding
 
 ## Some Tools I Use
