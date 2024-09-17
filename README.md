@@ -55,6 +55,12 @@ I've created a web testing portfolio and want to share it with you. It's all my 
   I used sample database from w3schools in my local MySQL instance.
 
   - [Querying MySQL with DBeaver](https://drive.google.com/file/d/1SC5J7fGjMFesKzNK15fzusCFdkQ746Cz/view?usp=drive_link)
+    
+- Automated testing
+
+  I automated multiple test cases for the web application (online shopping platform) using Java and Selenium, including Allure reporting.
+
+  - [Automated testing project](https://github.com/anastasiialuzhkova/SeleniumHW7)
 
 ## Follow Me
 
