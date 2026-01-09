@@ -17,7 +17,7 @@ I enjoy building reliable test coverage, improving quality processes, and consta
 <div>
 <img src="assets/vscode.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 <img src="assets/gitlab.png" title="GitLab" alt="GitLab" width="40" height="40"/>
-<img src="assets/javaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+<img src="assets/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 <img src="assets/mocha.svg" title="Mocha" alt="Mocha" width="40" height="40"/>
 <img src="assets/webdriverio.svg" title="WebdriverIO" alt="WebdriverIO" width="40" height="40"/>
 <img src="assets/devtools.png" title="DevTools" alt="DevTools" width="40" height="40"/>
